@@ -63,6 +63,8 @@ cd leia-me modelo
 - Crie uma ramificação com o seu recurso: `git checkout -b my-feature`
 - Confirme suas alterações: `git commit -m 'feat: My new feature'`
 - Empurre seu ramo: `git push origin my-feature`
+- Um botão verde aparecerá no início deste repositório
+- Clique para abrir e preencher as informações da solicitação de recebimento
 
 [Voltar ao topo](#leia-me-modelo)
 
