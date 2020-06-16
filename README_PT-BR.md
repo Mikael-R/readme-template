@@ -15,7 +15,7 @@
 
 ---
 
-### Índice
+### 🔎 Índice
 
 - [Descrição](#descrição)
 - [Tecnologias](#tecnologias)
@@ -27,7 +27,7 @@
 
 ---
 
-## Descrição
+## 📋Descrição
 
 Criar um ReadMe para o repositório Github pode ser entediante. Espero que este modelo possa economizar meu tempo e esforço, além de fornecer alguma consistência em meus projetos.
 
@@ -35,7 +35,7 @@ Criar um ReadMe para o repositório Github pode ser entediante. Espero que este 
 
 ---
 
-## Tecnologias
+## 🚀Tecnologias
 
 - Tecnologia 1
 - Tecnologia 2
@@ -44,22 +44,22 @@ Criar um ReadMe para o repositório Github pode ser entediante. Espero que este 
 
 ---
 
-## Como usar
+## 🤔Como usar
 
-#### Na área de trabalho
+#### 💻 Desktop
 ```
 git clone https://github.com/Mikael-R/readme-template
 cd leia-me modelo
 ```
 
-#### Uso online
+#### 🌐 Online
 
 
 [Voltar ao topo](#leia-me-modelo)
 
 ---
 
-## Como contribuir
+## 💡Como contribuir
 
 - Crie um fork deste repositório
 - Crie uma ramificação com o seu recurso: `git checkout -b my-feature`
@@ -70,7 +70,7 @@ cd leia-me modelo
 
 ---
 
-## Colaboradores
+## 🤝Colaboradores
 
 - [Usuário](https://github.com/User)
 
@@ -78,7 +78,7 @@ cd leia-me modelo
 
 ---
 
-## Licença
+## 📜Licença
 
 Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](LICENSE.md) para obter detalhes
 
@@ -86,7 +86,7 @@ Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.m
 
 ---
 
-## Autor
+## 👨‍💻Autor
 
 | [<img src="https://user-images.githubusercontent.com/60241602/80879315-3b866a00-8c92-11ea-8ec7-2d722eb8e845.png" width=115><br><sub>@Mikael-R</sub>](https://github.com/Mikael-R) |
 | :---: |
