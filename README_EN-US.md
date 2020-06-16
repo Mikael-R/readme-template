@@ -16,7 +16,7 @@
 
 ---
 
-### Table of Contents
+### 🔎 Table of Contents
 
 - [Description](#description)
 - [Technologies](#technologies)
@@ -28,7 +28,7 @@
 
 ---
 
-## Description
+## 📋Description
 
 Creating ReadMe's for Github repository can be tedious.  I hope this template can save my time and effort as well as provide with some consistency across my projects.
 
@@ -36,7 +36,7 @@ Creating ReadMe's for Github repository can be tedious.  I hope this template ca
 
 ---
 
-## Technologies
+## 🚀Technologies
 
 - Technology 1
 - Technology 2
@@ -45,22 +45,22 @@ Creating ReadMe's for Github repository can be tedious.  I hope this template ca
 
 ---
 
-## How To Use
+## 🤔How To Use
 
-#### On you desktop
+#### 💻 Desktop
 ```
 git clone https://github.com/Mikael-R/readme-template
 cd readme-template
 ```
 
-####  Online use
+#### 🌐 Online
 
 
 [Back To The Top](#read-me-template)
 
 ---
 
-## How To Contribute
+## 💡How To Contribute
 
 - Make a fork of this repository
 - Create a branch with your resource: `git checkout -b my-feature`
@@ -71,7 +71,7 @@ cd readme-template
 
 ---
 
-## Contributors
+## 🤝Contributors
 
 - [User](https://github.com/User)
 
@@ -79,7 +79,7 @@ cd readme-template
 
 ---
 
-## License
+## 📜License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
@@ -87,7 +87,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ---
 
-## Author
+## 👨‍💻Author
 
 | [<img src="https://user-images.githubusercontent.com/60241602/80879315-3b866a00-8c92-11ea-8ec7-2d722eb8e845.png" width=115><br><sub>@Mikael-R</sub>](https://github.com/Mikael-R) |
 | :---: |
