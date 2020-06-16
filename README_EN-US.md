@@ -64,6 +64,8 @@ cd readme-template
 - Create a branch with your resource: `git checkout -b my-feature`
 - Commit your changes: `git commit -m 'feat: My new feature'`
 - Push your branch: `git push origin my-feature`
+- A green button will appear at the beginning of this repository
+- Click to open and fill in the pull request information
 
 [Back To The Top](#read-me-template)
 
