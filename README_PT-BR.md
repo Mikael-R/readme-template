@@ -17,8 +17,8 @@
 
 - [Descrição](#descrição)
 - [Tecnologias](#tecnologias)
-- [Como usar](#como-usar)
-- [Como contribuir](#como-contribuir)
+- [Como Usar](#como-usar)
+- [Como Contribuir](#como-contribuir)
 - [Colaboradores](#colaboradores)
 - [Licença](#licença)
 - [Autor](#autor)
@@ -42,7 +42,7 @@ Criar um ReadMe para o repositório Github pode ser entediante. Espero que este 
 
 ---
 
-## 🤔Como usar
+## 🤔Como Usar
 
 #### 💻 Desktop
 ```
@@ -57,7 +57,7 @@ cd leia-me modelo
 
 ---
 
-## 💡Como contribuir
+## 💡Como Contribuir
 
 - Crie um fork deste repositório
 - Crie uma ramificação com o seu recurso: `git checkout -b my-feature`
