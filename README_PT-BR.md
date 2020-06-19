@@ -2,6 +2,8 @@
 
 [![Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Mikael-R/readme-template)
 
+[![Heroku](https://img.shields.io/badge/CI-%E2%9C%93-green.svg?logo=heroku&colorA=79589f&logoColor=white)](https://heroku.com) [![Repl.it](https://repl.it/badge/github/Mikael-R/readme-template)](https://repl.it)
+
 [![License](https://img.shields.io/github/license/Mikael-R/readme-template)](LICENSE.md) [![Last Commit](https://img.shields.io/github/last-commit/Mikael-R/readme-template)](https://github.com/Mikael-R/readme-template/commits/) ![Language Most Used](https://img.shields.io/github/languages/top/Mikael-R/readme-template) [![Implementations](https://img.shields.io/badge/%F0%9F%92%A1-implementations-8C8E93.svg?style=flat)](https://github.com/Mikael-R/readme-template/issues)
 
 [![Forks](https://img.shields.io/github/forks/Mikael-R/readme-template?style=social)](https://github.com/Mikael-R/readme-template/network/members) [![Stars](https://img.shields.io/github/stars/Mikael-R/readme-template?style=social)](https://github.com/Mikael-R/readme-template/stargazers) [![Watches](https://img.shields.io/github/watchers/Mikael-R/readme-template?style=social)](https://github.com/Mikael-R/readme-template/watchers)
