@@ -9,8 +9,7 @@
 [![Forks](https://img.shields.io/github/forks/Mikael-R/readme-template?style=social)](https://github.com/Mikael-R/readme-template/network/members) [![Stars](https://img.shields.io/github/stars/Mikael-R/readme-template?style=social)](https://github.com/Mikael-R/readme-template/stargazers) [![Watches](https://img.shields.io/github/watchers/Mikael-R/readme-template?style=social)](https://github.com/Mikael-R/readme-template/watchers)
 
 
-
-# Read Me Template
+<h1 align="center">Welcome to readme-template-generator 👋</h1>
 
 ![Project Image](project-image-url)
 
